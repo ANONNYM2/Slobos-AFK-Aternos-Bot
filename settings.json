@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pidrosmp.play.hosting",
-    "port": 48638,
+    "ip": "62.141.62.37",
+    "port": 48918,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
