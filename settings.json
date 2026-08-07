@@ -8,7 +8,7 @@
   "server": {
     "ip": "pidrosmp.play.hosting",
     "port": 23615,
-    "version": "26.2",
+    "version": "1.21.6",
     "try-creative": false
   },
   "position": {
